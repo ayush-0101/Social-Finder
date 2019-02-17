@@ -1,0 +1,573 @@
+{
+    "meta": {
+        "requestid": "2eed33e25afb48ad8cbd4cca58972eb1",
+        "http_code": 200,
+        "network": "all",
+        "query_type": "realtime",
+        "limit": 20,
+        "page": 0
+    },
+    "posts": [
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 05:05:04 +00000",
+            "postid": "1096998947078397953",
+            "text": "RT @ViratKohliIndFC: Virat Kohli leads from the front like Imran Khan, says Abdul Qadir - India Today https://t.co/o3IHA3nJSF https://t.co/…",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "positive",
+            "image": "",
+            "url": "http://twitter.com/PankajT55583849/statuses/1096998947078397953",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "1083832995889348609",
+                "name": "Pankaj Thakur",
+                "url": "http://twitter.com/PankajT55583849",
+                "image": "http://pbs.twimg.com/profile_images/1083833325955952646/aYOOAo1Q_normal.jpg"
+            },
+            "urls": [
+                {
+                    "short_url": "https://t.co/o3IHA3nJSF",
+                    "url": "http://dlvr.it/Qz2bXN"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "text": "ViratKohliIndFC",
+                    "url": "http://twitter.com/ViratKohliIndFC"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 05:04:45 +00000",
+            "postid": "1096998866107408384",
+            "text": "RT @Aaatiiii: Haris Rauf was one of the LQ bowlers who bowled at nets to Virat Kohli in Sydney recently. Kohli was mighty impressed by his…",
+            "lang": "en",
+            "type": "status",
+            "sentiment": "positive",
+            "image": "",
+            "url": "http://twitter.com/DrWaseem611/statuses/1096998866107408384",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "1021757065101025280",
+                "name": "V. A. S. E. E. M  🏏",
+                "url": "http://twitter.com/DrWaseem611",
+                "image": "http://pbs.twimg.com/profile_images/1093905540269387776/1il4RxpF_normal.jpg",
+                "location": "Sarcistaan"
+            },
+            "user_mentions": [
+                {
+                    "text": "Aaatiiii",
+                    "url": "http://twitter.com/Aaatiiii"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 05:04:23 +00000",
+            "postid": "1096998774713536513",
+            "text": "RT @Aaatiiii: Haris Rauf was one of the LQ bowlers who bowled at nets to Virat Kohli in Sydney recently. Kohli was mighty impressed by his…",
+            "lang": "en",
+            "type": "status",
+            "sentiment": "positive",
+            "image": "",
+            "url": "http://twitter.com/Malik_IshtiaqPk/statuses/1096998774713536513",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "779935642105118720",
+                "name": "اشتیاق حسین🇵🇰",
+                "url": "http://twitter.com/Malik_IshtiaqPk",
+                "image": "http://pbs.twimg.com/profile_images/1044917157421830144/0fRikYfy_normal.jpg",
+                "location": "Talagang, Pakistan"
+            },
+            "user_mentions": [
+                {
+                    "text": "Aaatiiii",
+                    "url": "http://twitter.com/Aaatiiii"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 05:03:38 +00000",
+            "postid": "1096998584631779328",
+            "text": "RT @ViratKohliIndFC: Royal Challengers Bangalore's Virat Kohli Catches up With Sunrisers Hyderabad's Rashid Khan During IPL 2019 S - https:…",
+            "lang": "en",
+            "type": "status",
+            "sentiment": "positive",
+            "image": "",
+            "url": "http://twitter.com/PankajT55583849/statuses/1096998584631779328",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "1083832995889348609",
+                "name": "Pankaj Thakur",
+                "url": "http://twitter.com/PankajT55583849",
+                "image": "http://pbs.twimg.com/profile_images/1083833325955952646/aYOOAo1Q_normal.jpg"
+            },
+            "user_mentions": [
+                {
+                    "text": "ViratKohliIndFC",
+                    "url": "http://twitter.com/ViratKohliIndFC"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 05:02:35 +00000",
+            "postid": "1096998322345295875",
+            "text": "RT @TalatHussain12: If PM Imran cud congratulate Virat Kohli’s team India on its series win in Aus why cant he use the same twitter account…",
+            "lang": "en",
+            "type": "status",
+            "sentiment": "neutral",
+            "image": "",
+            "url": "http://twitter.com/braveheart101/statuses/1096998322345295875",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "946056616952156160",
+                "name": "Muhammad Asad Shah",
+                "url": "http://twitter.com/braveheart101",
+                "image": "http://pbs.twimg.com/profile_images/1066332385724239875/lVCUZQhH_normal.jpg"
+            },
+            "user_mentions": [
+                {
+                    "text": "TalatHussain12",
+                    "url": "http://twitter.com/TalatHussain12"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 04:59:26 +00000",
+            "postid": "1096997529202262018",
+            "text": "RT @BCCI: India’s squad for 1st and 2nd ODI against Australia: Virat Kohli (Capt), Rohit Sharma (vc), Shikhar Dhawan, Ambati Rayudu, Kedar…",
+            "lang": "hi",
+            "type": "status",
+            "sentiment": "neutral",
+            "image": "",
+            "url": "http://twitter.com/PremnathPK2/statuses/1096997529202262018",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "998913566756388864",
+                "name": "Premnath kp",
+                "url": "http://twitter.com/PremnathPK2",
+                "image": "http://pbs.twimg.com/profile_images/1070190252843663360/GjvzyDw8_normal.jpg",
+                "location": "Chennai, India"
+            },
+            "user_mentions": [
+                {
+                    "text": "BCCI",
+                    "url": "http://twitter.com/BCCI"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 04:58:01 +00000",
+            "postid": "1096997171742851072",
+            "text": "RT @TalatHussain12: If PM Imran cud congratulate Virat Kohli’s team India on its series win in Aus why cant he use the same twitter account…",
+            "lang": "en",
+            "type": "status",
+            "sentiment": "neutral",
+            "image": "",
+            "url": "http://twitter.com/kamrannkami/statuses/1096997171742851072",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "1092472070955548672",
+                "name": "SS",
+                "url": "http://twitter.com/kamrannkami",
+                "image": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "location": "Islamabad, Pakistan"
+            },
+            "user_mentions": [
+                {
+                    "text": "TalatHussain12",
+                    "url": "http://twitter.com/TalatHussain12"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 04:57:58 +00000",
+            "postid": "1096997157494607878",
+            "text": "RT @BCCI: India’s squad for remaining three ODIs: Virat Kohli (Capt), Rohit Sharma (vc), Shikhar Dhawan, Ambati Rayudu, Kedar Jadhav, MSD (…",
+            "lang": "hi",
+            "type": "status",
+            "sentiment": "neutral",
+            "image": "",
+            "url": "http://twitter.com/Rajesh56031182/statuses/1096997157494607878",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "1094105612114288640",
+                "name": "Rajesh",
+                "url": "http://twitter.com/Rajesh56031182",
+                "image": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+            },
+            "user_mentions": [
+                {
+                    "text": "BCCI",
+                    "url": "http://twitter.com/BCCI"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 04:54:10 +00000",
+            "postid": "1096996200723763200",
+            "text": "RT @bhagatsingharmy: 🎂:::HAPPY::BIRTHDAY:::🎂\n\nMR.360° \n\n@ABdeVilliers17 \n\nAll Cricket Lovers Shocked when he play Cricket😍💖🆎1⃣7⃣🏏\n#HappyBir…",
+            "lang": "en",
+            "type": "status",
+            "sentiment": "positive",
+            "image": "",
+            "url": "http://twitter.com/KumarVikashpiya/statuses/1096996200723763200",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "2534884286",
+                "name": "Vikash Sharma",
+                "url": "http://twitter.com/KumarVikashpiya",
+                "image": "http://pbs.twimg.com/profile_images/1096061179028492290/H0AzBZU-_normal.jpg",
+                "location": "INDIA"
+            },
+            "user_mentions": [
+                {
+                    "text": "bhagatsingharmy",
+                    "url": "http://twitter.com/bhagatsingharmy"
+                },
+                {
+                    "text": "ABdeVilliers17",
+                    "url": "http://twitter.com/ABdeVilliers17"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 04:53:17 +00000",
+            "postid": "1096995978689814528",
+            "text": "👍 on @YouTube: MS Dhoni Virat Kohli Version | Hindi And Telugu Bahubali 2 https://t.co/90J1iBZaeC",
+            "lang": "et",
+            "type": "video",
+            "sentiment": "neutral",
+            "image": "",
+            "url": "http://twitter.com/MdSomserAli1/statuses/1096995978689814528",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "1087255328767467521",
+                "name": "Md Somser Ali",
+                "url": "http://twitter.com/MdSomserAli1",
+                "image": "http://pbs.twimg.com/profile_images/1087255610511380482/5oIvQDBx_normal.jpg"
+            },
+            "urls": [
+                {
+                    "short_url": "https://t.co/90J1iBZaeC",
+                    "url": "https://youtu.be/usdCAEYltmQ"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "text": "YouTube",
+                    "url": "http://twitter.com/YouTube"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 04:50:08 +00000",
+            "postid": "1096995188025655296",
+            "text": "RT @Cric_beat: Today In 2018\n\nVirat Kohli Became 1st Batsman to Score 500+ Runs in an Odi Bilateral series\n\nHe Scored 558 Runs vs SA In 6 I…",
+            "lang": "en",
+            "type": "status",
+            "sentiment": "neutral",
+            "image": "",
+            "url": "http://twitter.com/shahidfanlover/statuses/1096995188025655296",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "729939939127906304",
+                "name": "kingchamp587",
+                "url": "http://twitter.com/shahidfanlover",
+                "image": "http://pbs.twimg.com/profile_images/1030504005816864768/xi9D9hQK_normal.jpg",
+                "location": "भारत"
+            },
+            "user_mentions": [
+                {
+                    "text": "Cric_beat",
+                    "url": "http://twitter.com/Cric_beat"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 04:48:44 +00000",
+            "postid": "1096994835297390592",
+            "text": "RT @Aaatiiii: Haris Rauf was one of the LQ bowlers who bowled at nets to Virat Kohli in Sydney recently. Kohli was mighty impressed by his…",
+            "lang": "en",
+            "type": "status",
+            "sentiment": "positive",
+            "image": "",
+            "url": "http://twitter.com/querido_reina/statuses/1096994835297390592",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "783314486128152576",
+                "name": "سدرة المنتهٰى💫",
+                "url": "http://twitter.com/querido_reina",
+                "image": "http://pbs.twimg.com/profile_images/1096855971488501761/yym-Spov_normal.jpg",
+                "location": "Pakistan"
+            },
+            "user_mentions": [
+                {
+                    "text": "Aaatiiii",
+                    "url": "http://twitter.com/Aaatiiii"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 04:47:42 +00000",
+            "postid": "1096994574852022273",
+            "text": "Good taim virat kohli 👏 https://t.co/aERZgCCzio",
+            "lang": "en",
+            "type": "photo",
+            "sentiment": "positive",
+            "image": "http://pbs.twimg.com/media/DzlOvM5U0AI6vPI.jpg",
+            "url": "http://twitter.com/RajuKoh14062715/statuses/1096994574852022273",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "1096261178429329409",
+                "name": "Raju Kohli",
+                "url": "http://twitter.com/RajuKoh14062715",
+                "image": "http://pbs.twimg.com/profile_images/1096261572765245440/HrlByw4F_normal.jpg"
+            },
+            "urls": [
+                {
+                    "url": "http://pbs.twimg.com/media/DzlOvM5U0AI6vPI.jpg"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 04:46:50 +00000",
+            "postid": "1096994358488756225",
+            "text": "RT @Dhoni7_fc: What is Your answer??\nVote for your Favorite Player\n:\nRT for Dhoni\nLike Virat\nReply Sachin\n:\n#Dhoni #Sachin #Kohli https://t…",
+            "lang": "en",
+            "type": "status",
+            "sentiment": "neutral",
+            "image": "",
+            "url": "http://twitter.com/Iamak54754757/statuses/1096994358488756225",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "1087163858655969281",
+                "name": "Iam ak",
+                "url": "http://twitter.com/Iamak54754757",
+                "image": "http://pbs.twimg.com/profile_images/1094161250806771712/dzPdy3wA_normal.jpg"
+            },
+            "tags": [
+                {
+                    "text": "#dhoni",
+                    "url": "http://twitter.com/search/%23dhoni"
+                },
+                {
+                    "text": "#sachin",
+                    "url": "http://twitter.com/search/%23sachin"
+                },
+                {
+                    "text": "#kohli",
+                    "url": "http://twitter.com/search/%23kohli"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "text": "Dhoni7_fc",
+                    "url": "http://twitter.com/Dhoni7_fc"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 04:45:31 +00000",
+            "postid": "1096994024894943232",
+            "text": "RT @indiacom: #IPL2019 Shooting Shenanigans @imVkohli @rashidkhan_19 @RCBTweets @SunRisers @IPL @BCCI @ACBofficials #INDvAUS\nhttps://t.co/D…",
+            "lang": "en",
+            "type": "link",
+            "sentiment": "neutral",
+            "image": "",
+            "url": "http://twitter.com/SaharSaboor/statuses/1096994024894943232",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "3029670371",
+                "name": "Abdul Saboor Sahaar",
+                "url": "http://twitter.com/SaharSaboor",
+                "image": "http://pbs.twimg.com/profile_images/1087579706659090432/VQQWfHM3_normal.jpg",
+                "location": "Afghanistan"
+            },
+            "urls": [
+                {
+                    "url": "https://t.co/D"
+                }
+            ],
+            "tags": [
+                {
+                    "text": "#ipl2019",
+                    "url": "http://twitter.com/search/%23ipl2019"
+                },
+                {
+                    "text": "#indvaus",
+                    "url": "http://twitter.com/search/%23indvaus"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "text": "indiacom",
+                    "url": "http://twitter.com/indiacom"
+                },
+                {
+                    "text": "imVkohli",
+                    "url": "http://twitter.com/imVkohli"
+                },
+                {
+                    "text": "rashidkhan_19",
+                    "url": "http://twitter.com/rashidkhan_19"
+                },
+                {
+                    "text": "RCBTweets",
+                    "url": "http://twitter.com/RCBTweets"
+                },
+                {
+                    "text": "SunRisers",
+                    "url": "http://twitter.com/SunRisers"
+                },
+                {
+                    "text": "IPL",
+                    "url": "http://twitter.com/IPL"
+                },
+                {
+                    "text": "BCCI",
+                    "url": "http://twitter.com/BCCI"
+                },
+                {
+                    "text": "ACBofficials",
+                    "url": "http://twitter.com/ACBofficials"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 04:45:15 +00000",
+            "postid": "1096993958318661637",
+            "text": "Good taim virat kohli https://t.co/cUrQLeWguH",
+            "lang": "en",
+            "type": "photo",
+            "sentiment": "positive",
+            "image": "http://pbs.twimg.com/media/DzlOLQRV4AMk8Uo.jpg",
+            "url": "http://twitter.com/RajuKoh14062715/statuses/1096993958318661637",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "1096261178429329409",
+                "name": "Raju Kohli",
+                "url": "http://twitter.com/RajuKoh14062715",
+                "image": "http://pbs.twimg.com/profile_images/1096261572765245440/HrlByw4F_normal.jpg"
+            },
+            "urls": [
+                {
+                    "url": "http://pbs.twimg.com/media/DzlOLQRV4AMk8Uo.jpg"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 04:43:14 +00000",
+            "postid": "1096993450673680384",
+            "text": "RT @TalatHussain12: If PM Imran cud congratulate Virat Kohli’s team India on its series win in Aus why cant he use the same twitter account…",
+            "lang": "en",
+            "type": "status",
+            "sentiment": "neutral",
+            "image": "",
+            "url": "http://twitter.com/JoshiOnfastrack/statuses/1096993450673680384",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "1587534475",
+                "name": "Nikhil Joshi",
+                "url": "http://twitter.com/JoshiOnfastrack",
+                "image": "http://pbs.twimg.com/profile_images/1065427731192709122/Qb1YRlqf_normal.jpg",
+                "location": "USA & India"
+            },
+            "user_mentions": [
+                {
+                    "text": "TalatHussain12",
+                    "url": "http://twitter.com/TalatHussain12"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 04:43:05 +00000",
+            "postid": "1096993414023925763",
+            "text": "RT @TalatHussain12: If PM Imran cud congratulate Virat Kohli’s team India on its series win in Aus why cant he use the same twitter account…",
+            "lang": "en",
+            "type": "status",
+            "sentiment": "neutral",
+            "image": "",
+            "url": "http://twitter.com/yJ098pK82CVDwo2/statuses/1096993414023925763",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "1077618317932806144",
+                "name": "Nouman Zahid⚡",
+                "url": "http://twitter.com/yJ098pK82CVDwo2",
+                "image": "http://pbs.twimg.com/profile_images/1081194483230887943/VmkTZyvF_normal.jpg"
+            },
+            "user_mentions": [
+                {
+                    "text": "TalatHussain12",
+                    "url": "http://twitter.com/TalatHussain12"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 04:42:44 +00000",
+            "postid": "1096993324647567360",
+            "text": "@vivekagnihotri These are same people who say Virat Kohli cant bat cause he failed in one innings",
+            "lang": "en",
+            "type": "status",
+            "sentiment": "positive",
+            "image": "",
+            "url": "http://twitter.com/sai7710/statuses/1096993324647567360",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "2544985601",
+                "name": "Sailesh Rathod",
+                "url": "http://twitter.com/sai7710",
+                "image": "http://pbs.twimg.com/profile_images/1091784425019330560/Nz8u2qCs_normal.jpg"
+            },
+            "user_mentions": [
+                {
+                    "text": "vivekagnihotri",
+                    "url": "http://twitter.com/vivekagnihotri"
+                }
+            ]
+        },
+        {
+            "network": "twitter",
+            "posted": "2019-02-17 04:42:33 +00000",
+            "postid": "1096993279873298432",
+            "text": "RT @Aaatiiii: Haris Rauf was one of the LQ bowlers who bowled at nets to Virat Kohli in Sydney recently. Kohli was mighty impressed by his…",
+            "lang": "en",
+            "type": "status",
+            "sentiment": "positive",
+            "image": "",
+            "url": "http://twitter.com/KHANKASPAHI1/statuses/1096993279873298432",
+            "requestId": "2eed33e25afb48ad8cbd4cca58972eb1",
+            "user": {
+                "userid": "1001056102031806469",
+                "name": "ZAKA ULLAH🌹🌷(ISB+MTN)",
+                "url": "http://twitter.com/KHANKASPAHI1",
+                "image": "http://pbs.twimg.com/profile_images/1096995202252853249/7_8mY9mw_normal.jpg",
+                "location": "MIANWALI "
+            },
+            "user_mentions": [
+                {
+                    "text": "Aaatiiii",
+                    "url": "http://twitter.com/Aaatiiii"
+                }
+            ]
+        }
+    ]
+}

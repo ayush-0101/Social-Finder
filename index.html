@@ -4,31 +4,24 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
 
-  <title>Social Finder</title>
-  
   <link href="https://fonts.googleapis.com/css?family=Dosis:400,700" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet">
 
+  <title>Social Finder</title>
 </head>
 
 <body>
-  <div id="button_search">
+  <div style="display:block;" id="button_search">
     <input id="inp" type="text">
     <button id="srch" type="button"> Search </button>
   </div>
+  <div id="load" class="loader"></div>
+  
   <div id="root"></div>
 
-  <script>
-    var click = document.getElementById("srch");
-    click.onclick = function (){
-      var script = document.createElement("script");
-      script.type = "text/javascript";
-      script.src = "js/script.js"; 
-      document.getElementsByTagName("head")[0].appendChild(script);
-      return false;
-    }
-  </script>
+  <script src="js/script1.js"></script>
 </body>
 
 </html>
