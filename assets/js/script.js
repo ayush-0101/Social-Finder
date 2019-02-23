@@ -10,11 +10,14 @@ input.addEventListener('keyup', function(event) {
 
 search_button.onclick = function() {
   document.getElementById('title_sf').style.display = 'none';
+  document.getElementById('page').style.display = 'none';
   document.getElementById('load').style.display = 'block';
   var query = input.value;
 
-  const app = document.getElementById('root');
-  // app.style.display = 'block';
+  document.getElementById('root').parentNode.removeChild(document.getElementById('root'));
+  const app = document.createElement('div');
+  app.setAttribute('id','root');
+  document.getElementById('bd').appendChild(app);
 
   var request = new XMLHttpRequest();
   request.open('GET', 'https://api.social-searcher.com/v2/search?q='+query+'&lang=en&limit=100&key=489b251c8c61b6396996e79670211b62', true);
@@ -148,10 +151,6 @@ search_button.onclick = function() {
         }
         // card_body.appendChild(link1);
       });
-
-      /*const rel = document.createElement('script');
-      rel.setAttribute('src','assets/js/script.js');
-      app.appendChild(rel);*/
     } else {
       const errorMessage = document.createElement('p');
       errorMessage.style = 'color:red';
