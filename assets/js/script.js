@@ -17,10 +17,11 @@ search_button.onclick = function() {
   document.getElementById('root').parentNode.removeChild(document.getElementById('root'));
   const app = document.createElement('div');
   app.setAttribute('id','root');
+  app.setAttribute('class','masonry');
   document.getElementById('bd').appendChild(app);
 
   var request = new XMLHttpRequest();
-  request.open('GET', 'https://api.social-searcher.com/v2/search?q='+query+'&lang=en&limit=100&key=489b251c8c61b6396996e79670211b62', true);
+  request.open('GET', 'https://api.social-searcher.com/v2/search?q='+query+'&lang=en&limit=100&key=773a1b54ac332456467049f861a14055', true);
   request.onload = function() {
     var data = JSON.parse(this.response);
     document.getElementById('bd').style = 'background-image: none';
@@ -143,8 +144,8 @@ search_button.onclick = function() {
           post_link.target = '_blank';
           const img = document.createElement('img');
           img.src = post.image;
-          img.setAttribute('height','250px');
-          img.setAttribute('width','250px');
+          img.setAttribute('height','200px');
+          img.setAttribute('width','200px');
           img.style = 'border-radius: 10%';
           card_body.appendChild(post_link);
           post_link.appendChild(img);
@@ -152,10 +153,21 @@ search_button.onclick = function() {
         // card_body.appendChild(link1);
       });
     } else {
-      const errorMessage = document.createElement('p');
-      errorMessage.style = 'color:red';
-      errorMessage.style = 'fontSize:40px';
-      errorMessage.textContent = 'Error 40* !';
+      const errorMessage = document.createElement('h3');
+      errorMessage.setAttribute('style','color:red;text-align:center;');
+      switch(data.meta.http_code) {
+        case 400 : errorMessage.textContent = 'Error 400 ! Bad Request...';
+
+        case 401 : errorMessage.textContent = 'Error 401 ! Unauthorized...';
+
+        case 404 : errorMessage.textContent = 'Error 404 ! Not Found...';
+
+        case 405 : errorMessage.textContent = 'Error 405 ! Method not allowed...';
+
+        case 503 : errorMessage.textContent = 'Error 503 ! Service temporarily unavailable...';
+
+        default : errorMessage.textContent = 'Error 403 ! Request limit exceeded...';
+      }
       app.appendChild(errorMessage);
     }
   }
