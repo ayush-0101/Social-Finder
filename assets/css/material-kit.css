@@ -4585,8 +4585,8 @@ tbody.collapse.show {
   position: relative;
   display: inline-block;
   flex-direction: column;
-  min-width: 20rem;
-  max-width: 20rem;
+  min-width: 18rem;
+  max-width: 18rem;
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
@@ -16239,7 +16239,7 @@ footer .pull-center {
   margin-top: 60px;
   margin-left: 100px;
   margin-right: -75px;
-  border-radius: 40px;
+  border-radius: 30px;
   color: rgba(0, 0, 0, 0.87);
   background: #fff;
   width: 100%;
