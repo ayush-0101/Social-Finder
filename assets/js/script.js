@@ -72,10 +72,10 @@ search_button.onclick = function() {
           case 'dailymotion' : logoattr.src = 'assets/img/dailymotion.svg'; break;
         }
 
-        if(post.sentiment == 'positive' || post.sentiment == 'neutral') {
+        if(post.sentiment == 'positive') {
           card.style = 'background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%)';
-        // } else if(post.sentiment == 'neutral') {
-          // card.style = 'background-image: linear-gradient(120deg, rgb(164, 222, 120) 0%, rgb(104, 191, 92) 100%)';
+        } else if(post.sentiment == 'neutral') {
+          card.style = 'background-image: linear-gradient(120deg, rgb(245, 255, 107) 0%, rgb(239, 238, 189) 100%)';
         } else {
           card.style = 'background-image: linear-gradient(120deg, #ff9a9e 0%, #fecfef 100%)';
         }
