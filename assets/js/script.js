@@ -155,18 +155,20 @@ search_button.onclick = function() {
     } else {
       const errorMessage = document.createElement('h3');
       errorMessage.setAttribute('style','color:red;text-align:center;');
-      switch(data.meta.http_code) {
-        case 400 : errorMessage.textContent = 'Error 400 ! Bad Request...';
+      switch(this.status) {
+        case 400 : errorMessage.textContent = 'Error 400 ! Bad Request...'; break;
 
-        case 401 : errorMessage.textContent = 'Error 401 ! Unauthorized...';
+        case 401 : errorMessage.textContent = 'Error 401 ! Unauthorized...'; break;
 
-        case 404 : errorMessage.textContent = 'Error 404 ! Not Found...';
+        case 403 : errorMessage.textContent = 'Error 403 ! Request limit exceeded...'; break;
 
-        case 405 : errorMessage.textContent = 'Error 405 ! Method not allowed...';
+        case 404 : errorMessage.textContent = 'Error 404 ! Not Found...'; break;
 
-        case 503 : errorMessage.textContent = 'Error 503 ! Service temporarily unavailable...';
+        case 405 : errorMessage.textContent = 'Error 405 ! Method not allowed...'; break;
 
-        default : errorMessage.textContent = 'Error 403 ! Request limit exceeded...';
+        case 503 : errorMessage.textContent = 'Error 503 ! Service temporarily unavailable...'; break;
+
+        default : errorMessage.textContent = 'Error Occured...';
       }
       app.appendChild(errorMessage);
     }
